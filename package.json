@@ -1,0 +1,22 @@
+{
+  "name": "steam-data",
+  "description": "my best package",
+  "version": "0.0.0",
+  "homepage": "https://github.com/legodude17/steam-data",
+  "author": "JDB (https://github.com/legodude17)",
+  "repository": "legodude17/steam-data",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": "bin.js",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^15.0.0"
+  },
+  "dependencies": {
+    "csv": "^6.2.0",
+    "formdata-node": "^5.0.0",
+    "got": "^12.5.1",
+    "puppeteer": "^18.0.5",
+    "yargs": "^17.6.0"
+  }
+}
