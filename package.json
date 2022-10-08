@@ -1,7 +1,7 @@
 {
-  "name": "@legodude/steam-data",
-  "description": "my best package",
-  "version": "0.0.0",
+  "name": "steam-data-csv",
+  "description": "A simple tool to export data about steam workshop items to a csv spreadsheet.",
+  "version": "1.0.0",
   "homepage": "https://github.com/legodude17/steam-data",
   "author": "JDB (https://github.com/legodude17)",
   "repository": "legodude17/steam-data",
